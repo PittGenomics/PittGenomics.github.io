@@ -10,7 +10,7 @@ navigation_weight: 3
 
 After earning double degrees of Electrical Engineering and Chemistry, Yi completed a Master’s degree in Bioinformatics at National Taiwan University. There he assessed quantitative models depicting the relationship between drug molecular structure. In our group, he is applying his software development and bioinformatics skills to build a voice-based, virtual assistant for cancer genome analyses.
 
-![Wenning](https://raw.githubusercontent.com/PittGenomics/PittGenomics.github.io/master/images/Wenning_Zheng1.jpg "Wenning ZHENG")
+![Wenning](https://raw.githubusercontent.com/PittGenomics/PittGenomics.github.io/master/images/Wenning_Zheng.jpg "Wenning ZHENG")
 #### Wenning ZHENG
 *Research Associate*
 
