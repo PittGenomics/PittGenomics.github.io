@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 permalink: /contact/
 navigation_weight: 5
 ---
