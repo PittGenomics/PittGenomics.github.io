@@ -4,13 +4,13 @@ title: People
 permalink: /members/
 navigation_weight: 3
 ---
-[id]: https://github.com/PittGenomics/PittGenomics.github.io/images/Yi_Hsiao.jpg  "Leo HSIAO"
+![Leo](https://raw.githubusercontent.com/PittGenomics/PittGenomics.github.io/master/images/Yi_Hsiao.png "Leo HSIAO")
 #### Yi (Leo) HSIAO
 *HLA-TW Intern*
 
 After earning double degrees of Electrical Engineering and Chemistry, Yi completed a Master’s degree in Bioinformatics at National Taiwan University. There he assessed quantitative models depicting the relationship between drug molecular structure. In our group, he is applying his software development and bioinformatics skills to build a voice-based, virtual assistant for cancer genome analyses.
 
-[id]: https://github.com/PittGenomics/PittGenomics.github.io/images/Wenning_Zheng.jpg  "Wenning ZHENG"
+![Wenning](https://raw.githubusercontent.com/PittGenomics/PittGenomics.github.io/master/images/Wenning_Zheng1.jpg "Wenning ZHENG")
 #### Wenning ZHENG
 *Research Associate*
 
